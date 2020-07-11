@@ -1,8 +1,8 @@
 var CACHE_DYNAMIC_VERSION = 'dynamic-v1';
 var CACHE_NAME = 'pwa-stations-caches';
 var urlsToCache = [
-    '/bon2tech/pwa/index.html',
-    '/bon2tech/pwa/data/json/stations.json',
+    '/bon2tech.github.io/pwa/index.html',
+    '/bon2tech.github.io/pwa/data/json/stations.json',
 ];
 
 self.addEventListener('install', function(event) {
